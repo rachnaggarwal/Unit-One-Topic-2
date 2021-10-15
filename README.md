@@ -1,3 +1,11 @@
+# Codes done for practicing this are pasted inside word file as screenshot. For next evaluation, pasted the code as well.
+
+
+
+
+
+
+
 # Unit-One-Topic-2
 ### 2. Inheritance, Polymorphism, Interface and Strinng Handling
 **Word file**
